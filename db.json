@@ -1,0 +1,244 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "make":"Audi",
+            "model":"R8",
+            "year":"2022",
+            "rentalPrice":"$699",
+            "description":"The 2022 R8, is one of Audi's most luxurious coupes, having seen use in professional racing circuits. It can achieve 0-60 in just 3.2 seconds and has a max speed of 204 MPH, with the power of its 5.2L V10 engine. It's fuel economy ratings are 14 MPG in the city and 23 MPG. We have multiple models available in yellow.",
+            "img":"https://images.unsplash.com/photo-1704144267226-227c3886a0dc?q=80&w=2662&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 2,
+            "make":"Audi",
+            "model":"Q8 E-Tron",
+            "year":"2025",
+            "rentalPrice":"$199",
+            "description":"The 2025 E-Tron, is one of Audis newest electric SUVs. It can go 0-60 in less than 6 seconds, and has a max speed of at least 120 MPH. It's fuel economy rating is approximately 78 MPGe, and it has a towing capacity of 4 000 lbs. We have multiple models available in Red.",
+            "img":"https://images.unsplash.com/photo-1606151761120-5094de8e0416?q=80&w=2674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"4"
+        },
+        {
+            "id": 3,
+            "make":"Audi",
+            "model":"A4",
+            "year":"2020",
+            "rentalPrice":"$99",
+            "description":"The 2020 A4, is none of Audi's most reliable sedans. It is capable of going 0-60 in 5.6 seconds and boast a max speed of 130 MPH with its 2,0L Inline Turbocharged engine. It's fuel economy rating in the city is 24 MPG and on the highway it's 32 MPG. We have multiple models available in silver.",
+            "img":"https://images.unsplash.com/photo-1597007030739-6d2e7172ee5b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        },
+        {
+            "id": 4,
+            "make":"Audi",
+            "model":"Q3",
+            "year":"2023",
+            "rentalPrice":"129",
+            "description":"The 2022 Q3 is one of Audi's most reliable SUVs. It is capable of going 0-60 in 7.0 seconds and boasts a max speed of 130 MPH with its 2.0L turbocharged inline-4 engine. Its fuel economy rating in the city is 22 MPG and on the highway it's 30 MPG. It also haqs a towing capacity of 2200 lbs. We have multiple models available in Red.",
+            "img":"https://images.unsplash.com/photo-1592032857148-5658283bb67b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXVkaSUyMHEzfGVufDB8fDB8fHww",
+            "numberAvailable":"5"
+        },
+        {
+            "id": 5,
+            "make":"BMW",
+            "model":"M3",
+            "year":"2024",
+            "rentalPrice":"$259",
+            "description":"The 2024 M3 is one of BMW's most iconic performance sedans. It can go 0-60 in just 3.8 seconds and has a top speed of up to 180 MPH when equipped with the M Driver's Package. Its 3.0L twin-turbocharged inline-6 engine delivers both power and precision. The M3 has a fuel economy rating of approximately 16 MPG in the city and 23 MPG on the highway. We have multiple models available in black",
+            "img":"https://images.unsplash.com/photo-1570356528233-b442cf2de345?q=80&w=1366&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"4"
+        },
+        {
+            "id": 6,
+            "make":"BMW",
+            "model":"i8",
+            "year":2024,
+            "rentalPrice":"$449",
+            "description":"The 2024 BMW i8 is one of BMW's most luxurious coupes, and it's even a hybrid. It can achieve 0-60 in just 4.2 seconds and has a max speed of 155 MPH, powered by its 1.5L turbocharged 3-cylinder plug-in hybrid engine. Its fuel economy ratings are 27 MPG on gas and 69 MPGe combined. We have multiple models available in white.",
+            "img":"https://images.unsplash.com/photo-1667551181687-e3eb9babf037?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 7,
+            "make":"BMW",
+            "model":"X1",
+            "year":"2020",
+            "rentalPrice":"$149",
+            "description":"The 2020 X1 is one of BMW's most versatile compact SUVs. It can go 0-60 in 6.3 seconds and has a top speed of 130 MPH, powered by its 2.0L inline-4 turbocharged engine. The fuel economy rating is around 24 MPG in the city and 33 MPG on the highway. It also has a towing capacity of 3,500 lbs. We have multiple models available in black.",
+            "img":"https://images.unsplash.com/photo-1523983388277-336a66bf9bcd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        },
+        {
+            "id": 8,
+            "make":"BMW",
+            "model":"M4",
+            "year":"2024",
+            "rentalPrice":"$399",
+            "description":"The 2024 M4 is one of BMW's high-performance sports coupes. It can go 0-60 in 3.8 seconds and has a top speed of 155 MPH, powered by its 3.0L inline-6 turbocharged engine. The fuel economy rating is around 16 MPG in the city and 23 MPG on the highway. As a coupe, it doesn't have a towing capacity. We have multiple models available in orange.",
+            "img":"https://images.unsplash.com/photo-1617531653332-bd46c24f2068?q=80&w=1515&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"4"
+        },
+        {
+            "id": 9,
+            "make":"Mercedes",
+            "model":"GLS",
+            "year":"2020",
+            "rentalPrice":"$119",
+            "description":"The 2020 GLS, is one of Mercedes' most luxurious SUVs. It can go 0-60 in 5.2 seconds and has a max speed of 130 MPH with its 3.0L V6 Biturbo engine. It's fuel economy rating is 19 MPG in the city and 23 MPG on the highway. We have multiple models available in blue.",
+            "img":"https://images.unsplash.com/photo-1718128769487-7ecc0ec06f97?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        },
+        {
+            "id": 10,
+            "make":"Mercedes",
+            "model":"CLE Cabriolet",
+            "year":"2024",
+            "rentalPrice":"$399",
+            "description":"The 2024 CLE Cabriolet is one of Mercedes-Benz's most luxurios  sedans. It can go 0-60 in just 4.2 seconds and has a top speed of 130 MPH with its 3.0L inline-6 mild-hybrid engine. Its fuel economy rating is approximately 28 MPG combined. We have multiple models available in black.",
+            "img":"https://images.unsplash.com/photo-1687402346435-9ad65d1f87f9?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"5"
+        },
+        {
+            "id": 11,
+            "make":"Mercedes",
+            "model":"AMG GT",
+            "year":"2024",
+            "rentalPrice":"$1299",
+            "description":"The 2024 AMG GT is one of Mercedes-Benz's most exhilarating performance coupes. It can go 0-60 in just 3.2 seconds and has a top speed of 180 MPH with its 4.0L twin-turbo V8 engine. Its fuel economy rating is approximately 13 MPG in the city and 20 MPG on the highway. We have multiple models available in silver.",
+            "img":"https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 12,
+            "make":"Mercedes",
+            "model":"C Class",
+            "year":"2025",
+            "rentalPrice":"$229",
+            "description":"The 2025 C-Class is one of Mercedes-Benz's most refined luxury sedans. It can go 0–60 in just 6.0 seconds and has a top speed of 130 MPH with its 2.0L inline-4 turbocharged engine. Its fuel economy rating is approximately 25 MPG in the city and 35 MPG on the highway. We have multiple models available in black.",
+            "img":"https://images.unsplash.com/photo-1652549424658-fac6f10a22ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWVyY2VkZXMlMjBjJTIwY2xhc3N8ZW58MHx8MHx8fDA%3D",
+            "numberAvailable":"4"
+        },
+        {
+            "id": 13,
+            "make":"Ford",
+            "model":"Mustang GT",
+            "year":"2024",
+            "rentalPrice":"$229",
+            "description":"The 2024 Mustang GT is one of Ford's most iconic muscle cars. It can go 0-60 in just 4.2 seconds and has a top speed of 155 MPH with its 5.0L Ti-VCT V8 engine. Its fuel economy rating is approximately 16 MPG in the city and 24 MPG on the highway. We have multiple models available in blue.",
+            "img":"https://images.unsplash.com/photo-1560801877-7bda6dd63e51?q=80&w=1635&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"6"
+        },
+        {
+            "id": 14,
+            "make":"Ford",
+            "model":"F-150 Raptor",
+            "year":"2022",
+            "rentalPrice":"$249",
+            "description":"The 2022 F-150 Raptor is a rugged off-road beast designed for extreme terrain. With a 3.5L EcoBoost V6 engine, it accelerates from 0-60 in just 5.1 seconds and boasts a top speed of 120 MPH. Its towing capacity is an impressive 8,000 lbs, making it perfect for hauling heavy loads. The truck also offers a fuel economy rating of 15 MPG in the city and 18 MPG on the highway. We have multiple models available in grey.",
+            "img":"https://images.unsplash.com/photo-1605893477799-b99e3b8b93fe?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        },
+        {
+            "id": 15,
+            "make":"Ford",
+            "model":"Escape",
+            "year":"2024",
+            "rentalPrice":"$79",
+            "description":"The 2024 Ford Escape is a versatile compact SUV, perfect for both city driving and weekend adventures. Powered by a 1.5L EcoBoost engine, it can accelerate from 0-60 in 8.0 seconds with a top speed of 120 MPH. The Escape provides a fuel economy rating of 28 MPG in the city and 34 MPG on the highway, ensuring you travel farther on less fuel. We have multiple models available in white.",
+            "img":"https://images.unsplash.com/photo-1653813893853-be3e6ecfe061?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"4"
+        },
+        {
+            "id": 16,
+            "make":"Ford",
+            "model":"Bronco",
+            "year":"2023",
+            "rentalPrice":"$119",
+            "description":"The 2023 Ford Bronco is a rugged 4x4 SUV designed for off-road enthusiasts. It can achieve 0-60 in 7.3 seconds and has a max speed of 112 MPH, powered by its 2.3L EcoBoost turbocharged 4-cylinder engine. Its fuel economy ratings are 20 MPG in the city and 24 MPG on the highway. We have multiple models available in light blue.",
+            "img":"https://images.unsplash.com/photo-1686715692509-8cb69d40d081?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zm9yZCUyMGJyb25jb3xlbnwwfHwwfHx8MA%3D%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 17,
+            "make":"Volkswagen",
+            "model":"Jetta",
+            "year":"2020",
+            "rentalPrice":"$59",
+            "description":"The 2020 Volkswagen Jetta combines practicality with performance, featuring a sleek and modern design. Powered by a 1.4L turbocharged engine, it can achieve 0-60 mph in just 8.5 seconds. Its fuel economy stands at an impressive 30 MPG in the city and 40 MPG on the highway. Perfect for those seeking a reliable sedan with great efficiency. We have multiple models available in silver.",
+            "img":"https://images.unsplash.com/photo-1634330902518-f201fc36e0f4?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"5"
+        },
+        {
+            "id": 18,
+            "make":"Volkswagen",
+            "model":"Golf GTI",
+            "year":"2023",
+            "rentalPrice":"$109",
+            "description":"The 2023 Volkswagen Golf GTI is a high-performance hatchback with a 2.0L turbocharged engine, delivering 0-60 in just 5.6 seconds. It has a top speed of 155 MPH and offers a fuel economy rating of 24 MPG in the city and 32 MPG on the highway. Perfect for those who want both power and practicality. We have multiple models available in white.",
+            "img":"https://images.unsplash.com/photo-1630019210269-d0ebeee405f0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        },
+        {
+            "id": 19,
+            "make":"Volkswagen",
+            "model":"Tiguan",
+            "year":"2023",
+            "rentalPrice":"$99",
+            "description":"The 2023 Volkswagen Tiguan is a versatile SUV equipped with a 2.0L turbocharged engine, providing a balance of performance and fuel efficiency. It can go from 0-60 in 7.8 seconds, with a top speed of 130 MPH. Fuel economy is rated at 23 MPG in the city and 30 MPG on the highway, making it an ideal choice for both urban driving and road trips. We have multiple models available in white.",
+            "img":"https://images.unsplash.com/photo-1655286178262-548ed0647fe6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRpZ3VhbnxlbnwwfHwwfHx8MA%3D%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 20,
+            "make":"Volkswagen",
+            "model":"ID.3",
+            "year":"2024",
+            "rentalPrice":"$129",
+            "description":"The 2024 Volkswagen ID.3 is an innovative electric hatchback, offering a sustainable yet stylish driving experience. With its electric motor, it delivers impressive acceleration, reaching 0-60 mph in 7.5 seconds. The ID.3 provides an efficient range, allowing for up to 260 miles on a full charge. It's perfect for eco-conscious drivers looking for a futuristic vehicle. We have multiple models available in teal blue.",
+            "img":"https://images.unsplash.com/photo-1614249323745-408f86dc2d6f?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"5"
+        },
+        {
+            "id": 21,
+            "make":"Peugeot",
+            "model":"408",
+            "year":"2024",
+            "rentalPrice":"$129",
+            "description":"The 2024 Peugeot 408 offers a dynamic and stylish design, perfect for both city driving and long road trips. Powered by a 1.6L turbocharged engine, it delivers excellent performance while maintaining fuel efficiency with 25 MPG in the city and 34 MPG on the highway. Its spacious interior and advanced technology make it an ideal choice for families. We have multiple models available in green.",
+            "img":"https://images.unsplash.com/photo-1686464904082-3e54b3179184?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        },
+        {
+            "id": 22,
+            "make":"Peugeot",
+            "model":"5008",
+            "year":"2025",
+            "rentalPrice":"$109",
+            "description":"The 2025 Peugeot 5008 is a versatile and spacious SUV that’s perfect for larger families or group trips. Equipped with a 1.6L turbocharged engine, it offers a smooth and efficient ride with 22 MPG in the city and 31 MPG on the highway. This 7-seater SUV ensures comfort with a well-appointed interior and modern tech features. We have multiple models available in red.",
+            "img":"https://images.unsplash.com/photo-1742811969417-902de1b52886?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGV1Z2VvdCUyMDUwMDh8ZW58MHx8MHx8fDA%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 23,
+            "make":"Peugeot",
+            "model":"308",
+            "year":"2025",
+            "rentalPrice":"$129",
+            "description":"The 2025 Peugeot 308 is a sleek and efficient hatchback, perfect for city driving and long road trips. With its 1.2L turbocharged engine, the 308 offers an impressive balance of power and fuel efficiency, achieving 28 MPG in the city and 40 MPG on the highway. Its compact size and modern design make it an ideal choice for those looking for a stylish and practical vehicle. We have multiple models available in white.",
+            "img":"https://images.unsplash.com/photo-1656518800108-33fb1acc7924?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"2"
+        },
+        {
+            "id": 24,
+            "make":"Peugeot",
+            "model":"Rifter",
+            "year":"2025",
+            "rentalPrice":"$139",
+            "description":"The 2025 Peugeot Rifter is a versatile MPV designed for those needing extra space and flexibility. Powered by a 1.5L diesel engine, it offers a fuel economy of 35 MPG in the city and 48 MPG on the highway. With a rental price of $139, the Rifter is perfect for family trips or long-haul drives. Available in black, we have multiple models available for rent.",
+            "img":"https://images.unsplash.com/photo-1687039588464-09f1b52208c7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "numberAvailable":"3"
+        }
+    ]
+}
